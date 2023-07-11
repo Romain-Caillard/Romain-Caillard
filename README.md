@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on the first webapp i want to develop after my webdev bootcamp @lewagon
+- 🔭 I’m currently building my first tour managment webapp & mobileapp.
 - 🌱 I’m currently learning ruby, ruby on rails, and all the basics of web development.
 - 👯 I’m looking to collaborate on projects to gain experience.
 - 💬 Ask me about my music experience for +20 years in the music industry.
